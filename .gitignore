@@ -1,10 +1,7 @@
-# Comment
-tempfile.txt
-*.zip
-*.gz
-log/*.log
-log/*.log.[0-9]
-assets/photoshop/
-assets/videos/
-!assets/videos/tour_*.mp4
+# general linux rules
+.*
+!.gitignore  # don't ignore this file!
+*~
 
+# specific files to ignore
+tempfile.txt
