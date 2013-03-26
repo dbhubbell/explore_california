@@ -1,7 +1,5 @@
 # general linux rules
-.*
 !.gitignore  # don't ignore this file!
-*~
 
 # specific files to ignore
 tempfile.txt
