@@ -3,5 +3,3 @@ it's not very big
 and it's not very useful...
 but it's my website
 This is another line
-
-This comes before all other files
